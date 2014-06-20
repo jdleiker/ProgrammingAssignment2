@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## I'm testing the now ... 
 
 makeCacheMatrix <- function(x = matrix()) {
 
